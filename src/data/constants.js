@@ -10,7 +10,7 @@ export const Bio = {
       "As Continue my graduation in Computer Science and Engineering I've Developed a solid foundation in programming Algorithm And Web development or Data Science . My academic Experience has challenges project both solo and collaborative Which has enhance my problem solve ability . Adaptable with extensive experience providing first-class results. i am committed to Drive high Quality work.",
     github: "https://github.com/Anmolhanda2002?tab=repositories",
     resume:
-      "https://drive.google.com/file/d/1ZRWfKeB_fDyFXgr1QLKHeXsyOaZRZXA8/view?usp=drive_link",
+      "https://drive.google.com/file/d/1CJnB5avBM6kFCj0TjQDBOz8KmK5WohuE/view?usp=drive_link",
     linkedin: "",
     insta: "",
   };
